@@ -7,7 +7,7 @@
   "type": "firewall",
   "license": "Copyright (c) AvantGarde Partners 2016",
   "main_module": "imperva_SecureSphere_connector.pyc",
-  "app_version": "1.0.1",
+  "app_version": "1.0.2",
   "utctime_updated": "2016-06-24T13:16:03.000000Z",
   "product_vendor": "Imperva",
   "product_name": "SecureSphere WAF",
